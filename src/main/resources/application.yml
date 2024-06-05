@@ -8,5 +8,11 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/wilfredkim/config-repo.git
+          #uri: C:\\Users\\User\\Documents\\Workspace\\Tutorials\\2024 Microservices\\config-repo
+          timeout: 30
+
+
+
+
 
